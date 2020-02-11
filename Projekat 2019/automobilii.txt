@@ -1,0 +1,11 @@
+100020|ZR-789-JE|Hyundai|i30|5|Da|Benzin|Zelena|165 321km|70
+100030|ZR-789-JE|Hyundai|i20|5|Da|Benzin|Zelena|132 103km|61
+100040|ZR-031-BV|Renault|Clio|4|Da|Benzin|Siva|163 133km|63
+100060|ZR-856-KE|Fiat|Punto Grande|5|Da|Benzin|Plava|89 752|53
+100050|ZR-059-EE|Lada|Niva|5|Ne|Dizel|Siva|145 965|23
+100070|ZR-863-KZ|Opel|Astra|5|Da|Benzin|Siva|132 320|43
+100200|ZR-956-KW|Renault|C4|4|Da|Dizel|Crna|76 421|44
+100300|ZR-596-XW|Volkswagen|Golf 5|5|Da|Dizel|Crna|198 362|64
+100500|ZR-643-PO|Toyota|Corolla|4|Da|Benzin|Crvena|43 154|43
+102000|ZR-087-GG|Seat|Ibiza|5|Da|Dizel|Siva|142 873|37
+104000|ZR-223-GH|Fiat|124 Spider|4|Da|Dizel|Plava|23 312|76
