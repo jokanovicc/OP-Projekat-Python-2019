@@ -3,7 +3,7 @@ import autododaj
 import azuriranje
 import rezervacije
 import ocene
-import izvestaji
+#import izvestaji
 #-------------------------------UI Pocetni login meni za prijavu--------------------------------------------------------
 def login_meni():
     while(True):
